@@ -1,0 +1,33 @@
+{
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "Meine Bibliothek",
+            "description": "Symbole, Footprints und 3D-Modelle",
+            "description_full": "Beschreibung hier...",
+            "identifier": "com.github.DEIN-USERNAME.meine-bibliothek",
+            "type": "library",
+            "author": {
+                "name": "Dein Name",
+                "contact": {
+                    "web": "https://github.com/DEIN-USERNAME"
+                }
+            },
+            "license": "CC-BY-SA-4.0",
+            "resources": {
+                "homepage": "https://github.com/DEIN-USERNAME/meine-kicad-bibliothek"
+            },
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "status": "stable",
+                    "kicad_version": "8.0",
+                    "download_url": "https://github.com/DEIN-USERNAME/meine-kicad-bibliothek/releases/download/v1.0.0/meine-bibliothek-1.0.0.zip",
+                    "download_sha256": "abc123...DEIN_HASH_HIER...",
+                    "download_size": 12345,
+                    "install_size": 45678
+                }
+            ]
+        }
+    ]
+}
