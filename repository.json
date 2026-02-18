@@ -1,0 +1,7 @@
+{
+    "name": "Mein KiCad Repository",
+    "packages": {
+        "url": "https://github.com/Yanik-ys/kicad-repo.git/packages.json",
+        "sha256": "BF1BAC506F46591042E2B7B039598DF3364460A3B464AE2DA8D839BD6DCC151A"
+    }
+}
