@@ -23,7 +23,7 @@
                     "status": "stable",
                     "kicad_version": "8.0",
                     "download_url": "https://github.com/Yanik-ys/Baumer-KiCAD-Lib/releases/download/v1.0.0/baumer-kicad-lib.zip",
-                    "download_sha256": "FA1054DB11C6918F5A41EA38EC0FB048AB207FEDB3381EFEFF2B589340D7559C",
+                    "download_sha256": "fa1054db11c6918f5a41ea38ec0fb048ab207fedb3381efeff2b589340d7559c",
                     "download_size": 20873668,
                     "install_size": 67019855
                 }
