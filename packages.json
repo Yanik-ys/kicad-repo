@@ -2,30 +2,30 @@
     "packages": [
         {
             "$schema": "https://go.kicad.org/pcm/schemas/v1",
-            "name": "Meine Bibliothek",
-            "description": "Symbole, Footprints und 3D-Modelle",
-            "description_full": "Beschreibung hier...",
-            "identifier": "com.github.DEIN-USERNAME.meine-bibliothek",
+            "name": "Baumer KiCAD Library",
+            "description": "Baumer Bibliothek mit Symbolen, Footprints und 3D-Modellen",
+            "description_full": "Offizielle Baumer KiCad-Bibliothek.\n\nEnthält Symbole, Footprints und 3D-Modelle für Baumer-Bauteile.",
+            "identifier": "com.github.yanik-ys.baumer-kicad-lib",
             "type": "library",
             "author": {
-                "name": "Dein Name",
+                "name": "Yanik",
                 "contact": {
-                    "web": "https://github.com/DEIN-USERNAME"
+                    "web": "https://github.com/Yanik-ys"
                 }
             },
             "license": "CC-BY-SA-4.0",
             "resources": {
-                "homepage": "https://github.com/DEIN-USERNAME/meine-kicad-bibliothek"
+                "homepage": "https://github.com/Yanik-ys/Baumer-KiCAD-Lib"
             },
             "versions": [
                 {
                     "version": "1.0.0",
                     "status": "stable",
                     "kicad_version": "8.0",
-                    "download_url": "https://github.com/DEIN-USERNAME/meine-kicad-bibliothek/releases/download/v1.0.0/meine-bibliothek-1.0.0.zip",
-                    "download_sha256": "abc123...DEIN_HASH_HIER...",
-                    "download_size": 12345,
-                    "install_size": 45678
+                    "download_url": "https://github.com/Yanik-ys/Baumer-KiCAD-Lib/releases/download/v1.0.0/baumer-kicad-lib-1.0.0.zip",
+                    "download_sha256": "876C6569E2976BCAD28ABEC47922775D4F12AE6D6F25D5A29BA0A235D19999E7",
+                    "download_size": 0,
+                    "install_size": 0
                 }
             ]
         }
