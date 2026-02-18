@@ -2,7 +2,7 @@
     "name": "Baumer KiCad Repository",
     "packages": {
         "url": "https://yanik-ys.github.io/kicad-repo/packages.json",
-        "sha256": "af516d49b89b5b1c80c450a3e31f5f8d0ede041edb768be7d2359d16b2e14d72",
+        "sha256": "d761790a4a9f9ad0ff6c18da581c8cc03f85ca56d65b430e33c3d1792092709c",
         "update_timestamp": 1739864400
     }
 }
